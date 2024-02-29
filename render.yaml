@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-math-blog
+    name: go-to-sapporo
     env: python
     region: Oregon
     plan: free
